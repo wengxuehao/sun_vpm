@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/sun_vpm1/utils" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.5 virtualenv at ~/.virtualenvs/env_name" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.5 (/usr/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
